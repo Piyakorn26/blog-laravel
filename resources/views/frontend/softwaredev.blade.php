@@ -25,7 +25,7 @@
 						<h2><b>Software ?</b></h2>
 						<div class="bar"></div>
 						<p>We have been meticulously fine tuned for delivering strengh and stability backed by knowledge and superior innovation.<br>
-						We have been meticulouslt..</p>
+						We have been.</p>
 					</div>
 				</div>
 			</div>
