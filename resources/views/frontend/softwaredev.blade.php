@@ -20,6 +20,12 @@
 					<a href="#" class="btn btn-primary">Contact</a>
 				</div>
 
+				@foreach ($content as $key => $value)
+				<div>
+					{{ $value }}
+				</div>
+				@endforeach
+
 				<div class="about-content" style="padding-top: 70px;">
 					<div class="section-title">
 						<h2><b>Software ?</b></h2>
